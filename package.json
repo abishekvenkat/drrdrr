@@ -1,0 +1,12 @@
+{
+  "name": "drrdrr",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check api/_lib/config.js && node --check api/_lib/http.js && node --check api/config.js && node --check api/v1/[key].js && node --check scripts/push.mjs"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}
