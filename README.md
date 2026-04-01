@@ -2,6 +2,10 @@
 
 Minimal personal PWA + Web Push bridge for sending notifications from a terminal to an installed mobile web app, with no server-side database.
 
+## Demo
+
+[Watch the side-by-side demo](./media/side_by_side.mp4)
+
 ## How it works
 
 1. The installed PWA subscribes the phone to Web Push.
