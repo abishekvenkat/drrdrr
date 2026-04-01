@@ -4,7 +4,7 @@ Minimal personal PWA + Web Push bridge for sending notifications from a terminal
 
 ## Demo
 
-[Watch the side-by-side demo](./media/side_by_side.mp4)
+https://github.com/user-attachments/assets/8537591d-1169-4f03-9fa5-3cf218950f70
 
 ## How it works
 
